@@ -73,7 +73,7 @@ tippy('#shutdown', {
     delay: [1000, 100]
 });
 tippy('.user', {
-    content: 'Rajaniraiyn',
+    content: 'nateci',
     placement: 'top',
     theme: 'light',
     delay: [1000, 100]
